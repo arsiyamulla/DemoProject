@@ -24,5 +24,7 @@ class ScientificCalculator {
         } else {
             this.currentOperand = this.currentOperand.toString() + number.toString();
         }
+
+        
     }
 }
