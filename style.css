@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+title{
+    size: 100px;
+}
 body {
     font-family: 'Segoe UI', 'Arial', sans-serif;
     background: linear-gradient(135deg, #010816 0%, #4d1433 100%);
