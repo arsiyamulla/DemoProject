@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-title{
-    size: 100px;
+h1{
+    size: 100pc;
 }
 body {
     font-family: 'Segoe UI', 'Arial', sans-serif;
