@@ -37,9 +37,7 @@ body {
     text-align: center;
     margin-bottom: 20px;
 }
-p{
-    font-size: large;
-}
+
 .brand span {
     color: #ffd700;
     font-size: 20px;
@@ -222,4 +220,7 @@ p{
 .btn:focus {
     outline: none;
     box-shadow: 0 0 0 2px #ffd700;
+}
+p{
+    color: #e17055;
 }
