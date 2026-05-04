@@ -222,5 +222,8 @@ body {
     box-shadow: 0 0 0 2px #ffd700;
 }
 title{
-padding: 200pc;;
+padding: 200pc;
+}
+p{
+    padding-left: 100pt;
 }
