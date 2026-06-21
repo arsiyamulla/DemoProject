@@ -219,7 +219,7 @@ body {
 /* Focus styles for accessibility */
 .btn:focus {
     outline: none;
-    box-shadow: 0 0 0 2px #e8d466;
+    box-shadow: 0 0 0 2px #948742;
 }
 
 h1{
