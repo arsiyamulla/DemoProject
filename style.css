@@ -166,7 +166,7 @@ body {
 /* Scientific button special styling */
 .btn[data-action="square"],
 .btn[data-action="cube"] {
-    background: #e17055;
+    background: #c5634b;
 }
 
 .btn[data-action="sqrt"],
